@@ -1,0 +1,17 @@
+# Ignore Mac System files
+.DS_Store
+
+# Ignore Python "compiled" files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Virtual Environment
+.venv/
+env/
+venv/
+
+# IGNORE ALL CSV FILES (This covers your big file)
+*.csv
