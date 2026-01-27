@@ -36,6 +36,20 @@ A quantitative analysis of 785,000+ real-world job postings from 2023, examining
 
 - **Remote work varies by role** - 10-20% of postings offer remote options, with higher availability for senior and engineering positions.
 
+## Sample Visualizations
+
+### Job Role Distribution
+![Job Role Distribution](figures/01_role_distribution.png)
+
+### Skill Demand by Role
+![Skill Demand by Role](figures/03_skills_by_role.png)
+
+### Salary Distribution by Role
+![Salary Distribution by Role](figures/06_salary_by_role.png)
+
+
+  
+
 ## How to Run
 
 ```bash
