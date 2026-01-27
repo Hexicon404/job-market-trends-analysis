@@ -1,6 +1,6 @@
 # Job Market Trends Analysis
 
-A quantitative analysis of 700,000+ real-world job postings from 2023, examining global skill demand, salary anomalies, and hiring trends in the Data Jobs market
+A quantitative analysis of 785,000+ real-world job postings from 2023, examining global skill demand, salary anomalies, and hiring trends in the Data Jobs market
 
 ## Questions Explored
 
@@ -12,9 +12,9 @@ A quantitative analysis of 700,000+ real-world job postings from 2023, examining
 
 ## Dataset
 
-**Source:** Random sample from [lukebarousse/data_jobs](https://huggingface.co/datasets/lukebarousse/data_jobs) on Hugging Face. Original data scraped from Google Jobs, LinkedIn, Indeed, and other platforms.
+**Source:** Jobs Data from [lukebarousse/data_jobs](https://huggingface.co/datasets/lukebarousse/data_jobs) on Hugging Face. Original data scraped from Google Jobs, LinkedIn, Indeed, and other platforms.
 
-**Size:** 700,000+ job postings 
+**Size:** 785,000+ job postings 
 
 **Coverage:** Global, with US representing ~26% of postings. Primarily English-language sources.
 
@@ -22,7 +22,7 @@ A quantitative analysis of 700,000+ real-world job postings from 2023, examining
 
 ## Key Insights
 
-- **SQL and Python are non-negotiable.** They appear in the majority of all data role postings. Any serious job seeker should be proficient in both.
+- **SQL and Python skills in demand.** They appear in the majority of all data role postings.
 
 - **Role specialization is real.** Data Analysts need BI tools (Excel, Tableau, Power BI), Data Scientists need Python/R and ML skills, Data Engineers need cloud infrastructure (AWS, Spark, Snowflake).
 
