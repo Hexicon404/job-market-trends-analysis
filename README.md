@@ -1,6 +1,6 @@
 # Job Market Trends Analysis
 
-A quantitative analysis of 785,000+ real-world job postings from 2023, examining global skill demand, salary anomalies, and hiring trends in the Data Jobs market
+A quantitative analysis of 785,000+ real-world job postings from 2023, examining global skill demand, salary anomalies, and hiring trends in the Data Jobs market.
 
 ## Questions Explored
 
